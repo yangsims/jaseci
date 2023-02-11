@@ -35,3 +35,5 @@ node_modules
 # Docs
 mdbook/
 
+examples/CanoniCAI/code/tfm_ner_model/
+examples/CanoniCAI/code/results/
